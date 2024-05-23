@@ -9,3 +9,6 @@ print(f"Lista de alunos: {alunos}")
 # Funcao del
 del alunos[3]
 print(f"Lista de alunos: {alunos}")
+# Metado clear 
+alunos.clear()
+print(f"Lista de alunos: {alunos}")
